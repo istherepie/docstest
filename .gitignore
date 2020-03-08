@@ -1,0 +1,12 @@
+# Developer
+.DS_Store
+*.log
+
+.vscode
+.idea
+.notes
+
+# Python
+venv-*
+__pycache__
+*.pyc
